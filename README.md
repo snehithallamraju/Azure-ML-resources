@@ -5,6 +5,8 @@ These help to also prepare for the certification exam : Exam DP-100: Designing a
 
 Certification Link: https://www.microsoft.com/en-us/learning/exam-dp-100.aspx 
 
+[Useful Study guide blog](https://medium.com/deep-ai/study-guide-for-microsoft-azure-data-scientist-associate-certification-dp-100-c2e4611cb071)
+
 ## Paid learning resources for Azure ML studio
 
 Udemy       : https://www.udemy.com/machine-learning-using-azureml
