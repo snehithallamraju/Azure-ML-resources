@@ -10,3 +10,7 @@ Certification Link: https://www.microsoft.com/en-us/learning/exam-dp-100.aspx
 Udemy       : https://www.udemy.com/machine-learning-using-azureml
 
 Pluralsight : https://app.pluralsight.com/library/courses/microsoft-azure-ai-models-developing/table-of-contents
+
+## License & Copyright
+
+All licenses, copyrights and trademarks of the references herein are the property of their respective owners.
